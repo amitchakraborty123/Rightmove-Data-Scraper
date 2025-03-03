@@ -5,8 +5,6 @@ Profile URL: https://github.com/amitchakraborty123
 E-mail: mr.amitc55@gmail.com
 '''
 
-import datetime
-import time
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
